@@ -1,0 +1,3 @@
+2.9.
+La taille de l'image Debian11 est de 124MB.
+La taille de l'image ip-tp4 est de 795MB.
